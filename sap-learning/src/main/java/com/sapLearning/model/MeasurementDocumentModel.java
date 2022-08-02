@@ -1,7 +1,10 @@
 package com.sapLearning.model;
 
+import lombok.Data;
+
+@Data
 public class MeasurementDocumentModel {
 
-	private 
+	private boolean shashi;
 	
 }
