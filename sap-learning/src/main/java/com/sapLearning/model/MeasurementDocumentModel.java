@@ -8,5 +8,6 @@ public class MeasurementDocumentModel {
 	private boolean shashi;
 	private String fname;
 	private String lname;
+	private int age;
 	
 }
