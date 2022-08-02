@@ -6,5 +6,6 @@ import lombok.Data;
 public class MeasurementDocumentModel {
 
 	private boolean shashi;
+	private int age;
 	
 }
